@@ -1,0 +1,763 @@
+name,cr,type,size,ac,hp,align
+crab,0.0,beast,Tiny,11,2,unaligned
+hell-hound,3.0,fiend,Medium,15,45,lawful evil
+xvart,0.125,humanoid (xvart),Small,13,7,chaotic evil
+pseudodragon,0.25,dragon,Tiny,13,7,neutral good
+bulezau,3.0,fiend (demon),Medium,14,52,chaotic evil
+male-steeder,0.25,monstrosity,Medium,12,13,unaligned
+ulitharid,9.0,aberration,Large,15,127,lawful evil
+riding-horse,0.25,beast,Large,10,13,unaligned
+babau,4.0,fiend (demon),Medium,16,82,chaotic evil
+cloud-giant-smiling-one,11.0,giant (cloud giant),Huge,15,262,chaotic neutral
+guard-drake,2.0,dragon,Medium,14,52,unaligned
+draft-horse,0.25,beast,Large,10,19,unaligned
+maw-demon,1.0,fiend (demon),Medium,13,33,chaotic evil
+medusa,6.0,monstrosity,Medium,15,127,lawful evil
+rhinoceros,2.0,beast,Large,11,45,unaligned
+star-spawn-hulk,10.0,aberration,Large,16,136,chaotic evil
+cambion,5.0,fiend,Medium,19,82,any evil alignment
+deathlock,4.0,undead,Medium,12,36,neutral evil
+halaster-blackcloak,23.0,humanoid (human),Medium,14,246,chaotic evil
+devourer,13.0,fiend,Large,16,178,chaotic evil
+gorgon,5.0,monstrosity,Large,19,114,unaligned
+oni,7.0,giant,Large,16,110,lawful evil
+water-weird,3.0,elemental,Large,13,58,neutral
+frost-salamander,9.0,elemental,Huge,17,168,unaligned
+stegosaurus,4.0,beast,Huge,13,76,unaligned
+goat,0.0,beast,Medium,10,4,unaligned
+lizardfolk,0.5,humanoid (lizardfolk),Medium,15,22,neutral
+crocodile,0.5,beast,Large,12,19,unaligned
+juiblex,23.0,fiend (demon),Huge,18,350,chaotic evil
+ancient-shadow,1.0,undead,Medium,13,32,chaotic evil
+gibbering-mouther,2.0,aberration,Medium,9,67,neutral
+harpy,1.0,monstrosity,Medium,11,38,chaotic evil
+steel-predator,16.0,construct,Large,20,207,lawful evil
+ogremoch,20.0,elemental,Gargantuan,20,526,neutral evil
+violet-fungus,0.25,plant,Medium,5,18,unaligned
+death-slaad,10.0,aberration (shapechanger),Medium,18,170,chaotic evil
+carrion-crawler,2.0,monstrosity,Large,13,51,unaligned
+chitine,0.5,monstrosity,Small,14,18,chaotic evil
+ki-rin,12.0,celestial,Huge,20,152,lawful good
+derro-savant,3.0,humanoid (derro),Small,13,36,chaotic evil
+jackalwere,0.5,humanoid (shapechanger),Medium,12,18,chaotic evil
+zaratan,22.0,elemental,Gargantuan,21,307,neutral
+acererak,23.0,undead,Medium,21,285,neutral evil
+dire-wolf,1.0,beast,Large,14,37,unaligned
+ancient-white-dragon,20.0,dragon,Gargantuan,20,333,chaotic evil
+barbed-devil,5.0,fiend (devil),Medium,15,110,lawful evil
+pony,0.125,beast,Medium,10,11,unaligned
+boar,0.25,beast,Medium,11,11,unaligned
+slithering-tracker,3.0,ooze,Medium,14,32,chaotic evil
+scarecrow,1.0,construct,Medium,11,36,chaotic evil
+drow,0.25,humanoid (elf),Medium,15,13,neutral evil
+animated-armor,1.0,construct,Medium,18,33,unaligned
+hulking-crab,5.0,beast,Huge,17,76,unaligned
+grick-alpha,7.0,monstrosity,Large,18,75,neutral
+hobgoblin,0.5,humanoid (goblinoid),Medium,18,11,lawful evil
+marut,25.0,construct (inevitable),Large,22,432,lawful neutral
+spellcaster-healer-lvl-3,0.0,humanoid (any race),Medium,12,18,any alignment
+yuan-ti-nightmare-speaker,4.0,monstrosity (shapechanger/yuan-ti),Medium,14,71,neutral evil
+pixie,0.25,fey,Tiny,15,1,neutral good
+thug,0.5,humanoid (any race),Medium,11,32,any non-good alignment
+dryad,1.0,fey,Medium,11,22,neutral
+erinyes,12.0,fiend (devil),Medium,18,153,lawful evil
+ancient-bronze-dragon,22.0,dragon,Gargantuan,22,444,lawful good
+androsphinx,17.0,monstrosity,Large,17,199,lawful neutral
+nilbog,1.0,humanoid (goblinoid),Small,13,7,chaotic evil
+maurezhi,7.0,fiend (demon),Medium,15,88,chaotic evil
+nightmare,3.0,fiend,Large,13,68,neutral evil
+dybbuk,4.0,fiend (demon),Medium,14,37,chaotic evil
+archmage,12.0,humanoid (any race),Medium,12,99,any alignment
+raven,0.0,beast,Tiny,12,1,unaligned
+young-black-dragon,7.0,dragon,Large,18,127,chaotic evil
+master-thief,5.0,humanoid (any race),Medium,16,84,any alignment
+death-knight,17.0,undead,Medium,20,180,chaotic evil
+mage,6.0,humanoid (any race),Medium,12,40,any alignment
+female-steeder,1.0,monstrosity,Large,14,30,unaligned
+duergar-stone-guard,2.0,humanoid (dwarf),Medium,18,39,lawful evil
+ancient-gold-dragon,24.0,dragon,Gargantuan,22,546,lawful good
+frog,0.0,beast,Tiny,11,1,unaligned
+yuan-ti-broodguard,2.0,humanoid (yuan-ti),Medium,14,45,neutral evil
+hunter-shark,2.0,beast,Large,12,45,unaligned
+swashbuckler,3.0,humanoid (any race),Medium,17,66,any non-lawful alignment
+sea-hag,2.0,fey,Medium,14,52,chaotic evil
+giant-rat,0.125,beast,Small,12,7,unaligned
+earth-elemental-myrmidon,7.0,elemental,Medium,18,127,neutral
+wild-dog-alpha,1.0,beast,Large,12,26,unaligned
+su-monster,1.0,monstrosity,Medium,12,27,chaotic evil
+young-brass-dragon,6.0,dragon,Large,17,110,chaotic good
+drow-elite-warrior,5.0,humanoid (elf),Medium,18,71,neutral evil
+horned-devil,11.0,fiend (devil),Large,18,178,lawful evil
+brass-dragon-wyrmling,1.0,dragon,Medium,16,16,chaotic good
+drow-house-captain,9.0,humanoid (elf),Medium,16,162,neutral evil
+spider,0.0,beast,Tiny,12,1,unaligned
+belaphoss,20.0,fiend (demon),Huge,19,262,chaotic evil
+tarrasque,30.0,monstrosity (titan),Gargantuan,25,676,unaligned
+spellcaster-mage-lvl-6,0.0,humanoid (any race),Medium,12,31,any alignment
+chasme,6.0,fiend (demon),Large,15,84,chaotic evil
+smoke-mephit,0.25,elemental,Small,12,22,neutral evil
+swarm-of-ravens,0.25,swarm of Tiny beasts,Medium,12,24,unaligned
+giant-hyena,1.0,beast,Large,12,45,unaligned
+girallon,4.0,monstrosity,Large,13,59,unaligned
+alkilith,11.0,fiend (demon),Medium,17,157,chaotic evil
+catoblepas,5.0,monstrosity,Large,14,84,unaligned
+yuan-ti-pit-master,5.0,monstrosity (shapechanger/yuan-ti),Medium,14,88,neutral evil
+goristro,17.0,fiend (demon),Huge,19,310,chaotic evil
+stone-giant,7.0,giant,Huge,17,126,neutral
+cyclops,6.0,giant,Huge,14,138,chaotic neutral
+armanite,7.0,fiend (demon),Large,16,84,chaotic evil
+flail-snail,3.0,elemental,Large,16,52,unaligned
+planetar,16.0,celestial,Large,19,200,lawful good
+ancient-copper-dragon,21.0,dragon,Gargantuan,21,350,chaotic good
+war-priest,9.0,humanoid (any race),Medium,18,117,any alignment
+darkling,0.5,fey,Small,14,13,chaotic neutral
+giant-toad,1.0,beast,Large,11,39,unaligned
+behir,11.0,monstrosity,Huge,17,168,neutral evil
+wight,3.0,undead,Medium,14,45,neutral evil
+quickling,1.0,fey,Tiny,16,10,chaotic evil
+quaggoth,2.0,humanoid (quaggoth),Medium,13,45,chaotic neutral
+phoenix,16.0,elemental,Gargantuan,18,175,neutral
+gray-slaad,9.0,aberration (shapechanger),Medium,18,127,chaotic neutral
+commoner,0.0,humanoid (any race),Medium,10,4,any alignment
+cranium-rat,0.0,beast,Tiny,12,2,lawful evil
+red-slaad,5.0,aberration,Large,14,93,chaotic neutral
+helmed-horror,4.0,construct,Medium,20,60,neutral
+young-green-dragon,8.0,dragon,Large,18,136,lawful evil
+gladiator,5.0,humanoid (any race),Medium,16,112,any alignment
+githyanki-kith--rak,12.0,humanoid (gith),Medium,18,180,lawful evil
+assassin-vine,3.0,plant,Large,13,85,unaligned
+howler,8.0,fiend,Large,16,90,chaotic evil
+choldrith,3.0,monstrosity,Medium,15,66,chaotic evil
+ancient-black-dragon,21.0,dragon,Gargantuan,22,367,chaotic evil
+neothelid,13.0,aberration,Gargantuan,16,325,chaotic evil
+ambush-drake,0.5,dragon,Medium,13,22,unaligned
+the-lost,7.0,monstrosity,Medium,15,78,neutral evil
+giant-crocodile,5.0,beast,Huge,14,85,unaligned
+necromite-of-myrkul,0.5,humanoid (human),Medium,11,13,neutral evil
+aarakocra,0.25,humanoid (aarakocra),Medium,12,13,neutral good
+duergar-kavalrachni,2.0,humanoid (dwarf),Medium,16,26,lawful evil
+winged-kobold,0.25,humanoid (kobold),Small,13,7,lawful evil
+priest,2.0,humanoid (any race),Medium,13,27,any alignment
+shrieker,0.0,plant,Medium,5,13,unaligned
+ancient-silver-dragon,23.0,dragon,Gargantuan,22,487,lawful good
+dretch,0.25,fiend (demon),Small,11,18,chaotic evil
+mummified-warrior,0.25,undead,Medium,8,19,neutral
+banshee,4.0,undead,Medium,12,58,chaotic evil
+firenewt-warlock-of-imix,1.0,humanoid (firenewt),Medium,10,33,neutral evil
+azer,2.0,elemental,Medium,17,39,lawful neutral
+spring-eladrin,10.0,fey (elf),Medium,19,127,chaotic neutral
+warlock-of-the-great-old-one,6.0,humanoid (any race),Medium,12,91,any alignment
+shadow-demon,4.0,fiend (demon),Medium,13,66,chaotic evil
+canoloth,8.0,fiend (yugoloth),Medium,16,120,neutral evil
+succubus,4.0,fiend (shapechanger),Medium,15,66,neutral evil
+blink-dog,0.25,fey,Medium,13,22,lawful good
+white-dragon-wyrmling,2.0,dragon,Medium,16,32,chaotic evil
+shadow,0.5,undead,Medium,12,16,chaotic evil
+gelatinous-cube,2.0,ooze,Large,6,84,unaligned
+warrior-lvl-6,0.0,humanoid (any race),Medium,16,45,any alignment
+warrior-lvl-4,0.0,humanoid (any race),Medium,16,32,any alignment
+young-bronze-dragon,8.0,dragon,Large,18,142,lawful good
+alhoon,10.0,undead,Medium,15,120,any evil alignment
+ice-toad,1.0,monstrosity,Medium,12,32,neutral
+gnoll-hunter,0.5,humanoid (gnoll),Medium,13,22,chaotic evil
+adult-kruthik,2.0,monstrosity,Medium,18,39,unaligned
+werewolf,3.0,humanoid (human/shapechanger),Medium,11,58,chaotic evil
+scout,0.5,humanoid (any race),Medium,13,16,any alignment
+acolyte,0.25,humanoid (any race),Medium,10,9,any alignment
+molydeus,21.0,fiend (demon),Huge,19,216,chaotic evil
+black-pudding,4.0,ooze,Large,7,85,unaligned
+expert-lvl-5,0.0,humanoid (any race),Medium,14,33,any alignment
+redcap,3.0,fey,Small,13,45,chaotic evil
+night-blade,0.25,humanoid (human),Medium,12,11,chaotic evil
+abominable-yeti,9.0,monstrosity,Huge,15,137,chaotic evil
+graz-zt,24.0,fiend (demon/shapechanger),Large,20,346,chaotic evil
+giant-eagle,1.0,beast,Large,13,26,neutral good
+empyrean,23.0,celestial (titan),Huge,22,313,chaotic good
+eblis,1.0,monstrosity,Large,13,26,neutral evil
+bugbear,1.0,humanoid (goblinoid),Medium,16,27,chaotic evil
+giant-wasp,0.5,beast,Medium,12,13,unaligned
+copper-dragon-wyrmling,1.0,dragon,Medium,16,22,chaotic good
+spirit-naga,8.0,monstrosity,Large,15,75,chaotic evil
+doppelganger,3.0,monstrosity (shapechanger),Medium,14,52,neutral
+deinonychus,1.0,beast,Medium,13,26,unaligned
+giant-scorpion,3.0,beast,Large,15,52,unaligned
+air-elemental-myrmidon,7.0,elemental,Medium,18,117,neutral
+swarm-of-quippers,1.0,swarm of Tiny beasts,Medium,13,28,unaligned
+quadrone,1.0,construct,Medium,16,22,lawful neutral
+arcanaloth,12.0,fiend (yugoloth),Medium,17,104,neutral evil
+purple-wormling,2.0,monstrosity,Large,12,42,unaligned
+shadow-mastiff,2.0,monstrosity,Medium,12,33,neutral evil
+cloud-giant,9.0,giant,Huge,14,200,neutral good
+giant-constrictor-snake,2.0,beast,Huge,12,60,unaligned
+kobold-dragonshield,1.0,humanoid (kobold),Small,15,44,lawful evil
+ogre,2.0,giant,Large,11,59,chaotic evil
+black-bear,0.5,beast,Medium,11,19,unaligned
+killer-whale,3.0,beast,Huge,12,90,unaligned
+bugbear-chief,3.0,humanoid (goblinoid),Medium,17,65,chaotic evil
+elder-tempest,23.0,elemental,Gargantuan,19,264,neutral
+mammoth,6.0,beast,Huge,13,126,unaligned
+hellfire-engine,16.0,construct,Huge,18,216,lawful evil
+eagle,0.0,beast,Small,12,3,unaligned
+flind,9.0,humanoid (gnoll),Medium,16,127,chaotic evil
+troll,5.0,giant,Large,15,84,chaotic evil
+duodrone,0.25,construct,Medium,15,11,lawful neutral
+kobold-inventor,0.25,humanoid (kobold),Small,12,13,lawful evil
+peryton,2.0,monstrosity,Medium,13,33,chaotic evil
+half-red-dragon-veteran,5.0,humanoid (human),Medium,18,65,any alignment
+ice-mephit,0.5,elemental,Small,11,21,neutral evil
+drow-mage,7.0,humanoid (elf),Medium,12,45,neutral evil
+reef-manta-ray,0.5,beast,Large,12,16,unaligned
+cultist,0.125,humanoid (any race),Medium,12,9,any non-good alignment
+goblin,0.25,humanoid (goblinoid),Small,15,7,neutral evil
+hawk,0.0,beast,Tiny,13,1,unaligned
+kobold-scale-sorcerer,1.0,humanoid (kobold),Small,15,27,lawful evil
+ape,0.5,beast,Medium,12,19,unaligned
+specter,1.0,undead,Medium,12,22,chaotic evil
+gnoll,0.5,humanoid (gnoll),Medium,15,22,chaotic evil
+grimlock,0.25,humanoid (grimlock),Medium,11,11,neutral evil
+hill-giant,5.0,giant,Huge,13,105,chaotic evil
+oblex-spawn,0.25,ooze,Tiny,13,18,lawful evil
+ogre-zombie,2.0,undead,Large,8,85,neutral evil
+frost-giant,8.0,giant,Huge,15,138,neutral evil
+firenewt-warrior,0.5,humanoid (firenewt),Medium,16,22,neutral evil
+orc-claw-of-luthic,2.0,humanoid (orc),Medium,14,45,chaotic evil
+illusionist,3.0,humanoid (any race),Medium,12,38,any alignment
+veteran,3.0,humanoid (any race),Medium,17,58,any alignment
+ankheg,2.0,monstrosity,Large,14,39,unaligned
+brontosaurus,5.0,beast,Gargantuan,15,121,unaligned
+wood-woad,5.0,plant,Medium,18,75,lawful neutral
+red-dragon-wyrmling,4.0,dragon,Medium,17,75,chaotic evil
+neogi-hatchling,0.125,aberration,Tiny,11,7,lawful evil
+young-red-dragon,10.0,dragon,Large,18,178,chaotic evil
+tri-flower-frond,0.5,plant,Medium,10,11,unaligned
+master-of-souls,4.0,humanoid (human),Medium,12,45,neutral evil
+vulture,0.0,beast,Medium,10,5,unaligned
+hutijin,21.0,fiend (devil),Large,19,200,lawful evil
+aldani,1.0,monstrosity,Medium,0,0,lawful neutral
+orc-red-fang-of-shargaas,3.0,humanoid (orc),Medium,15,52,chaotic evil
+giant-wolf-spider,0.25,beast,Medium,13,11,unaligned
+balhannoth,11.0,aberration,Large,17,114,chaotic evil
+gold-dragon-wyrmling,3.0,dragon,Medium,17,60,lawful good
+gloom-weaver,9.0,humanoid (elf),Medium,14,104,neutral
+young-remorhaz,5.0,monstrosity,Large,14,93,unaligned
+iron-consul,2.0,humanoid (human),Medium,16,45,lawful evil
+demilich,18.0,undead,Tiny,20,80,neutral evil
+white-abishai,6.0,fiend (devil),Medium,15,68,lawful evil
+gnoll-pack-lord,2.0,humanoid (gnoll),Medium,15,49,chaotic evil
+fire-elemental,5.0,elemental,Large,13,102,neutral
+wererat,2.0,humanoid (human/shapechanger),Medium,12,33,lawful evil
+star-spawn-grue,0.25,aberration,Small,11,17,neutral evil
+githzerai-enlightned,10.0,humanoid (gith),Medium,18,112,lawful neutral
+flumph,0.125,aberration,Small,12,7,lawful good
+meenlock,2.0,fey,Small,15,31,neutral evil
+winter-wolf,3.0,monstrosity,Large,13,75,neutral evil
+mummy-lord,15.0,undead,Medium,17,97,lawful evil
+weretiger,4.0,humanoid (human/shapechanger),Medium,12,120,neutral
+oinoloth,12.0,fiend (yugoloth),Medium,17,126,neutral evil
+water-elemental,5.0,elemental,Large,14,114,neutral
+yeenoghu,24.0,fiend (demon),Huge,20,333,chaotic evil
+sibriex,18.0,fiend (demon),Huge,19,150,chaotic evil
+ogre-battering-ram,4.0,giant,Large,14,59,chaotic evil
+tortle-druid,2.0,humanoid (tortle),Medium,17,33,lawful neutral
+giant-shark,5.0,beast,Huge,13,126,unaligned
+marilith,16.0,fiend (demon),Large,18,189,chaotic evil
+yuan-ti-abomination,7.0,monstrosity (shapechanger/yuan-ti),Large,15,127,neutral evil
+cloaker,8.0,aberration,Large,14,78,chaotic neutral
+duergar-xarrorn,2.0,humanoid (dwarf),Medium,18,26,lawful evil
+star-spawn-larva-mage,16.0,aberration,Medium,16,168,chaotic evil
+korred,7.0,fey,Small,17,102,chaotic neutral
+black-dragon-wyrmling,2.0,dragon,Medium,17,33,chaotic evil
+neogi-master,4.0,aberration,Medium,15,71,lawful evil
+water-elemental-myrmidon,7.0,elemental,Medium,18,127,neutral
+monodrone,0.125,construct,Medium,15,5,lawful neutral
+wolf,0.25,beast,Medium,13,11,unaligned
+giant-four-armed-gargoyle,10.0,elemental,Large,17,147,chaotic evil
+flesh-golem,5.0,construct,Medium,9,93,neutral
+mouth-of-grolantor,6.0,giant (hill giant),Huge,14,105,chaotic evil
+ogre-chain-brute,3.0,giant,Large,11,59,chaotic evil
+spawn-of-kyuss,5.0,undead,Medium,10,76,chaotic evil
+githzerai-monk,2.0,humanoid (gith),Medium,14,38,lawful neutral
+iron-golem,16.0,construct,Large,20,210,unaligned
+awakened-shrub,0.0,plant,Small,9,10,unaligned
+spellcaster-mage-lvl-4,0.0,humanoid (any race),Medium,12,22,any alignment
+shield-guardian,7.0,construct,Large,17,142,unaligned
+draegloth,7.0,fiend (demon),Large,15,123,chaotic evil
+leviathan,20.0,elemental,Gargantuan,17,328,neutral
+darkling-elder,2.0,fey,Medium,15,27,chaotic neutral
+manticore,3.0,monstrosity,Large,14,68,lawful evil
+venerable-shadow,2.0,undead,Medium,13,27,chaotic evil
+frost-giant-everlasting-one,12.0,giant (frost giant),Huge,15,189,chaotic evil
+giant-bat,0.25,beast,Large,13,22,unaligned
+drow-arachnomancer,13.0,humanoid (elf),Medium,15,162,chaotic evil
+uthgardt-shaman,2.0,humanoid (human),Medium,13,38,neutral evil
+drow-priestress-of-lolth,8.0,humanoid (elf),Medium,16,71,neutral evil
+allosaurus,2.0,beast,Large,13,51,unaligned
+black-abishai,7.0,fiend (devil),Medium,15,58,lawful evil
+skull-lasher-of-myrkul,1.0,humanoid (human),Medium,12,32,neutral evil
+bone-devil,9.0,fiend (devil),Large,19,142,lawful evil
+martial-arts-adept,3.0,humanoid (any race),Medium,16,60,any alignment
+bronze-dragon-wyrmling,2.0,dragon,Medium,17,32,lawful good
+hobgoblin-captain,3.0,humanoid (goblinoid),Medium,17,39,lawful evil
+drow-matron-mother,20.0,humanoid (elf),Medium,17,262,neutral evil
+bearded-devil,3.0,fiend (devil),Medium,13,52,lawful evil
+weasel,0.0,beast,Tiny,13,1,unaligned
+githyanki-warrior,3.0,humanoid (gith),Medium,17,49,lawful evil
+lizard,0.0,beast,Tiny,10,2,unaligned
+cadaver-collector,14.0,construct,Large,17,189,lawful evil
+githzerai-zerth,6.0,humanoid (gith),Medium,17,84,lawful neutral
+elder-oblex,10.0,ooze,Huge,16,115,lawful evil
+wraith,5.0,undead,Medium,13,67,neutral evil
+pegasus,2.0,celestial,Large,12,59,chaotic good
+triceratops,5.0,beast,Huge,13,95,unaligned
+yochlol,10.0,fiend (demon/shapechanger),Medium,15,136,chaotic evil
+skeleton,0.25,undead,Medium,13,13,lawful evil
+the-wretched,0.25,monstrosity,Small,15,10,neutral evil
+swarm-of-rats,0.25,swarm of Tiny beasts,Medium,10,24,unaligned
+invisible-stalker,6.0,elemental,Medium,14,104,neutral
+aboleth,10.0,aberration,Large,17,135,lawful evil
+warrior-lvl-1,0.0,humanoid (any race),Medium,16,13,any alignment
+kraken,23.0,monstrosity (titan),Gargantuan,18,472,chaotic evil
+warhorse-skeleton,0.5,undead,Large,13,22,lawful evil
+grung-elite-warrior,2.0,humanoid (grung),Small,13,49,lawful evil
+cockatrice,0.5,monstrosity,Small,11,27,unaligned
+spellcaster-healer-lvl-4,0.0,humanoid (any race),Medium,12,22,any alignment
+minotaur,3.0,monstrosity,Large,14,76,chaotic evil
+giant-sea-horse,0.5,beast,Large,13,16,unaligned
+velociraptor,0.25,beast,Tiny,13,10,unaligned
+giant-elk,2.0,beast,Huge,14,42,unaligned
+storm-giant,13.0,giant,Huge,16,230,chaotic good
+revenant,5.0,undead,Medium,13,136,neutral
+axe-beak,0.25,beast,Large,11,19,unaligned
+guardian-naga,10.0,monstrosity,Large,18,127,lawful good
+hydra,8.0,monstrosity,Huge,15,172,unaligned
+moloch,21.0,fiend (devil),Large,19,253,lawful evil
+mastiff,0.125,beast,Medium,12,5,unaligned
+aurochs,2.0,beast,Large,11,38,unaligned
+rug-of-smothering,2.0,construct,Large,12,33,unaligned
+autumn-eladrin,10.0,fey (elf),Medium,19,127,chaotic neutral
+awakened-tree,2.0,plant,Huge,13,59,unaligned
+yagnoloth,11.0,fiend (yugoloth),Large,17,147,neutral evil
+gnoll-witherling,0.25,undead,Medium,12,11,chaotic evil
+berserker,2.0,humanoid (any race),Medium,13,67,any chaotic alignment
+hippogriff,1.0,monstrosity,Large,11,19,unaligned
+adult-black-dragon,14.0,dragon,Huge,19,195,chaotic evil
+elephant,4.0,beast,Huge,12,76,unaligned
+amnizu,18.0,fiend (devil),Medium,21,202,lawful evil
+merrow,2.0,monstrosity,Large,13,45,chaotic evil
+trapper,3.0,monstrosity,Large,13,85,unaligned
+bone-naga,4.0,undead,Large,15,58,lawful evil
+adult-blue-dragon,16.0,dragon,Huge,19,225,lawful evil
+dimetrodon,0.25,beast,Medium,12,19,unaligned
+storm-giant-quintessent,16.0,giant (storm giant),Huge,12,230,chaotic good
+faerie-dragon,1.0,dragon,Tiny,15,14,chaotic good
+jackal,0.0,beast,Small,12,3,unaligned
+tabaxi-hunter,1.0,humanoid (tabaxi),Medium,14,40,chaotic good
+fire-giant,9.0,giant,Huge,18,162,lawful evil
+spectator,3.0,aberration,Medium,14,39,lawful neutral
+warlock-of-the-archfey,4.0,humanoid (any race),Medium,11,49,any alignment
+bullywug,0.25,humanoid (bullywug),Medium,15,11,neutral evil
+orthon,10.0,fiend (devil),Large,17,105,lawful evil
+adult-blue-dracolich,17.0,undead,Huge,19,225,lawful evil
+venom-troll,7.0,giant,Large,15,94,chaotic evil
+quipper,0.0,beast,Tiny,13,1,unaligned
+vine-blight,0.5,plant,Medium,12,26,neutral evil
+mud-mephit,0.25,elemental,Small,11,27,neutral evil
+leucrotta,3.0,monstrosity,Large,14,67,chaotic evil
+spellcaster-mage-lvl-3,0.0,humanoid (any race),Medium,12,18,any alignment
+mule,0.125,beast,Medium,10,11,unaligned
+choker,1.0,aberration,Small,16,13,chaotic evil
+tlincalli,5.0,monstrosity,Large,15,85,neutral evil
+duergar-warlord,6.0,humanoid (dwarf),Medium,20,75,lawful evil
+nycaloth,9.0,fiend (yugoloth),Large,18,123,neutral evil
+barghest,4.0,fiend (shapechanger),Large,17,90,neutral evil
+orc,0.5,humanoid (orc),Medium,13,15,chaotic evil
+guard,0.125,humanoid (any race),Medium,16,11,any alignment
+roper,5.0,monstrosity,Large,20,93,neutral evil
+blue-dragon-wyrmling,3.0,dragon,Medium,17,52,lawful evil
+xvart-warlock-of-raxivort,1.0,humanoid (xvart),Small,12,22,chaotic evil
+swarm-of-bats,0.25,swarm of Tiny beasts,Medium,12,22,unaligned
+solar,21.0,celestial,Large,21,243,lawful good
+olhydra,18.0,elemental,Huge,18,324,neutral evil
+blue-slaad,7.0,aberration,Large,15,123,chaotic neutral
+hobgoblin-devastator,4.0,humanoid (goblinoid),Medium,13,45,lawful evil
+magmin,0.5,elemental,Small,14,9,chaotic neutral
+the-angry,13.0,monstrosity,Medium,18,255,neutral evil
+bael,19.0,fiend (devil),Large,18,189,lawful evil
+strahd-von-zarovich,15.0,undead (shapechanger),Medium,16,144,lawful evil
+dolphin,0.125,beast,Medium,12,11,unaligned
+adult-silver-dragon,16.0,dragon,Huge,19,243,lawful good
+chain-devil,8.0,fiend (devil),Medium,16,85,lawful evil
+winter-eladrin,10.0,fey (elf),Medium,19,127,chaotic neutral
+warlock-of-the-fiend,7.0,humanoid (any race),Medium,12,78,any alignment
+myconid-sovereign,2.0,plant,Large,13,60,lawful neutral
+yellow-musk-zombie,0.25,undead,Medium,9,33,unaligned
+wild-dog,0.125,beast,Medium,12,5,unaligned
+imp,1.0,fiend (devil/shapechanger),Tiny,13,10,lawful evil
+poisonous-snake,0.125,beast,Tiny,13,2,unaligned
+young-silver-dragon,9.0,dragon,Large,18,168,lawful good
+green-abishai,15.0,fiend (devil),Medium,18,187,lawful evil
+boggle,0.125,fey,Small,14,18,chaotic neutral
+will-o--wisp,2.0,undead,Tiny,19,22,chaotic evil
+grell,3.0,aberration,Medium,12,55,neutral evil
+quetzalcoatlus,2.0,beast,Huge,13,30,unaligned
+cave-fisher,3.0,monstrosity,Medium,16,58,unaligned
+manes,0.125,fiend (demon),Small,9,9,chaotic evil
+bandit-captain,2.0,humanoid (any race),Medium,15,65,any non-lawful alignment
+crawling-claw,0.0,undead,Tiny,12,2,neutral evil
+gray-render,12.0,monstrosity,Large,19,189,chaotic neutral
+rust-monster,0.5,monstrosity,Medium,14,27,unaligned
+couatl,4.0,celestial,Medium,19,97,lawful good
+stirge,0.125,beast,Tiny,14,2,unaligned
+giant-strider,1.0,monstrosity,Large,14,22,neutral evil
+transmuter,5.0,humanoid (any race),Medium,12,40,any alignment
+drow-inquisitor,14.0,humanoid (elf),Medium,16,143,neutral evil
+baboon,0.0,beast,Small,12,3,unaligned
+orc-hand-of-yurtrus,2.0,humanoid (orc),Medium,12,30,chaotic evil
+shadow-dancer,7.0,humanoid (elf),Medium,15,71,neutral
+crag-cat,1.0,beast,Large,13,34,unaligned
+swarm-of-rot-grubs,0.5,swarm of Tiny beasts,Medium,8,22,unaligned
+adult-bronze-dragon,15.0,dragon,Huge,19,212,lawful good
+conjurer,6.0,humanoid (any race),Medium,12,40,any alignment
+mimic,2.0,monstrosity (shapechanger),Medium,12,58,neutral
+plesiosaurus,2.0,beast,Large,13,68,unaligned
+reef-shark,0.5,beast,Medium,12,22,unaligned
+giant-centipede,0.25,beast,Small,13,4,unaligned
+berbalang,2.0,aberration,Medium,14,38,neutral evil
+duergar-mind-master,2.0,humanoid (dwarf),Medium,14,39,lawful evil
+ghost,4.0,undead,Medium,11,45,any alignment
+warhorse,0.5,beast,Large,11,19,unaligned
+rat,0.0,beast,Tiny,10,1,unaligned
+stone-juggernaut,12.0,construct,Large,15,157,unaligned
+manshoon,13.0,humanoid (human),Medium,19,126,lawful evil
+marid,11.0,elemental,Large,17,229,chaotic neutral
+young-kruthik,0.125,monstrosity,Small,16,9,unaligned
+expert-lvl-1,0.0,humanoid (any race),Medium,14,11,any alignment
+zombie,0.25,undead,Medium,8,22,neutral evil
+giant-owl,0.25,beast,Large,12,19,neutral
+spellcaster-mage-lvl-5,0.0,humanoid (any race),Medium,12,27,any alignment
+diviner,8.0,humanoid (any race),Medium,12,67,any alignment
+steam-mephit,0.25,elemental,Small,10,21,neutral evil
+banderhobb,5.0,monstrosity,Large,15,84,neutral evil
+worg,0.5,monstrosity,Large,13,26,neutral evil
+knight,3.0,humanoid (any race),Medium,18,52,any alignment
+basilisk,3.0,monstrosity,Medium,15,52,unaligned
+werebear,5.0,humanoid (human/shapechanger),Medium,10,135,neutral good
+sword-wraith-commander,8.0,undead,Medium,18,127,lawful evil
+orc-war-chief,4.0,humanoid (orc),Medium,16,93,chaotic evil
+lamia,4.0,monstrosity,Large,13,97,chaotic evil
+nightwalker,20.0,undead,Huge,14,297,chaotic evil
+adult-gold-dragon,17.0,dragon,Huge,19,256,lawful good
+otyugh,5.0,aberration,Large,14,114,neutral
+allip,5.0,undead,Medium,13,40,neutral evil
+beholder-zombie,5.0,undead,Large,15,93,neutral evil
+bat,0.0,beast,Tiny,12,1,unaligned
+drow-favored-consort,18.0,humanoid (elf),Medium,15,225,neutral evil
+treant,9.0,plant,Huge,16,138,chaotic good
+quasit,1.0,fiend (demon/shapechanger),Tiny,13,7,chaotic evil
+archdruid,12.0,humanoid (any race),Medium,16,132,any alignment
+bheur-hag,7.0,fey,Medium,17,91,chaotic evil
+young-gold-dragon,10.0,dragon,Large,18,178,lawful good
+flameskull,4.0,undead,Tiny,13,40,neutral evil
+duergar-soulblade,1.0,humanoid (dwarf),Medium,14,18,lawful evil
+purple-worm,15.0,monstrosity,Gargantuan,18,247,unaligned
+zuggtmoy,23.0,fiend (demon),Large,18,304,chaotic evil
+tortle,0.25,humanoid (tortle),Medium,17,22,lawful good
+grung,0.25,humanoid (grung),Small,12,11,lawful evil
+ettercap,2.0,monstrosity,Medium,13,44,neutral evil
+salamander,5.0,elemental,Large,15,90,neutral evil
+tabaxi-minstrel,0.25,humanoid (tabaxi),Medium,12,22,chaotic good
+star-spawn-seer,13.0,aberration,Medium,17,153,neutral evil
+vegepygmy,0.25,plant,Small,13,9,neutral
+chuul,4.0,aberration,Large,16,93,chaotic evil
+derro,0.25,humanoid (derro),Small,13,13,chaotic evil
+ultroloth,13.0,fiend (yugoloth),Medium,19,153,neutral evil
+ochre-jelly,2.0,ooze,Large,8,45,unaligned
+death-tyrant,14.0,undead,Large,19,187,lawful evil
+fraz-urb-luu,23.0,fiend (demon),Large,18,337,chaotic evil
+champion,9.0,humanoid (any race),Medium,18,143,any alignment
+djinni,11.0,elemental,Large,17,161,chaotic good
+githyanki-knight,8.0,humanoid (gith),Medium,18,91,lawful evil
+lemure,0.0,fiend (devil),Medium,7,13,lawful evil
+vajra-safahr,13.0,humanoid (human),Medium,14,126,lawful neutral
+pterafolk,1.0,monstrosity,Large,12,26,neutral evil
+geryon,22.0,fiend (devil),Huge,19,300,lawful evil
+skulk,0.5,humanoid,Medium,14,18,chaotic neutral
+chimera,6.0,monstrosity,Large,14,114,chaotic evil
+warrior-lvl-5,0.0,humanoid (any race),Medium,16,39,any alignment
+deathlock-mastermind,8.0,undead,Medium,13,110,neutral evil
+flying-snake,0.125,beast,Tiny,14,5,unaligned
+slaad-tadpole,0.125,aberration,Tiny,12,10,chaotic neutral
+mindwitness,5.0,aberration,Large,15,75,lawful evil
+stone-cursed,1.0,construct,Medium,17,19,lawful evil
+atropal,13.0,undead (titan),Huge,7,225,neutral evil
+adult-brass-dragon,13.0,dragon,Huge,18,172,chaotic good
+vargouille,1.0,fiend,Tiny,12,13,chaotic evil
+kuo-toa-whip,1.0,humanoid (kuo-toa),Medium,11,65,neutral evil
+wastrilith,13.0,fiend (demon),Large,18,157,chaotic evil
+sahuagin,0.5,humanoid (sahuagin),Medium,12,22,lawful evil
+grung-wildling,1.0,humanoid (grung),Small,13,27,lawful evil
+giant-two-headed-goat,0.5,beast,Large,11,19,unaligned
+merfolk,0.125,humanoid (merfolk),Medium,11,11,neutral
+drider,6.0,monstrosity,Large,19,123,chaotic evil
+githzerai-anarch,16.0,humanoid (gith),Medium,20,144,lawful neutral
+giant-fire-beetle,0.0,beast,Small,13,4,unaligned
+grick,2.0,monstrosity,Medium,14,27,neutral
+deva,10.0,celestial,Medium,17,136,lawful good
+galeb-duhr,6.0,elemental,Medium,16,85,neutral
+star-spawn-mangler,5.0,aberration,Medium,14,71,chaotic evil
+spellcaster-healer-lvl-1,0.0,humanoid (any race),Medium,12,9,any alignment
+giant-vulture,1.0,beast,Large,10,22,neutral evil
+spellcaster-healer-lvl-5,0.0,humanoid (any race),Medium,12,27,any alignment
+yan-c-bin,18.0,elemental,Huge,22,283,neutral evil
+pteranodon,0.25,beast,Medium,13,13,unaligned
+clay-golem,9.0,construct,Large,14,133,unaligned
+dire-troll,13.0,giant,Huge,15,172,chaotic evil
+wyvern,6.0,dragon,Large,13,110,unaligned
+orcus,26.0,fiend (demon),Huge,17,405,chaotic evil
+death-s-head-of-bhaal,5.0,humanoid (human),Medium,15,76,chaotic evil
+tribal-warrior,0.125,humanoid (any race),Medium,12,11,any alignment
+morkoth,11.0,aberration,Medium,17,130,chaotic evil
+myconid-adult,0.5,plant,Medium,12,22,lawful neutral
+summer-eladrin,10.0,fey (elf),Medium,19,127,chaotic neutral
+merrenoloth,3.0,fiend (yugoloth),Medium,13,40,neutral evil
+abjurer,9.0,humanoid (any race),Medium,12,84,any alignment
+soul-monger,11.0,humanoid (elf),Medium,15,123,neutral
+half-ogre,1.0,giant,Large,12,30,any chaotic alignment
+camel,0.125,beast,Large,9,15,unaligned
+ancient-green-dragon,22.0,dragon,Gargantuan,21,385,lawful evil
+yuan-ti-malison,3.0,monstrosity (shapechanger/yuan-ti),Medium,12,66,neutral evil
+octopus,0.0,beast,Small,12,3,unaligned
+badger,0.0,beast,Tiny,10,3,unaligned
+owlbear,3.0,monstrosity,Large,13,59,unaligned
+nagpa,17.0,humanoid (nagpa),Medium,19,187,neutral evil
+adult-green-dragon,15.0,dragon,Huge,19,207,lawful evil
+ettin,4.0,giant,Large,12,85,chaotic evil
+expert-lvl-3,0.0,humanoid (any race),Medium,14,22,any alignment
+black-gauntlet-of-bane,6.0,humanoid (human),Medium,16,51,lawful evil
+saber-toothed-tiger,2.0,beast,Large,12,52,unaligned
+necromancer,9.0,humanoid (any race),Medium,12,66,any alignment
+flying-sword,0.25,construct,Small,17,17,unaligned
+gnoll-fang-of-yeenoghu,4.0,fiend (gnoll),Medium,14,65,chaotic evil
+imix,19.0,elemental,Huge,17,325,neutral evil
+nothic,2.0,aberration,Medium,15,45,neutral evil
+intellect-devourer,2.0,aberration,Tiny,12,21,lawful evil
+kraken-priest,5.0,humanoid (any race),Medium,10,75,any evil alignment
+thorny,1.0,plant,Medium,14,27,neutral
+gnoll-flesh-gnawer,1.0,humanoid (gnoll),Medium,14,22,chaotic evil
+ancient-blue-dragon,23.0,dragon,Gargantuan,22,481,lawful evil
+earth-elemental,5.0,elemental,Large,17,126,neutral
+giant-goat,0.5,beast,Large,11,19,unaligned
+xorn,5.0,elemental,Medium,19,73,neutral
+vampiric-mist,3.0,undead,Medium,13,30,chaotic evil
+corpse-flower,8.0,plant,Large,12,127,chaotic evil
+griffon,2.0,monstrosity,Large,12,59,unaligned
+bard,2.0,humanoid (any race),Medium,15,44,any alignment
+dao,11.0,elemental,Large,18,187,neutral evil
+barlgura,5.0,fiend (demon),Large,15,68,chaotic evil
+green-dragon-wyrmling,2.0,dragon,Medium,17,38,lawful evil
+death-kiss,10.0,aberration,Large,16,161,neutral evil
+ankylosaurus,3.0,beast,Huge,15,68,unaligned
+ghoul,1.0,undead,Medium,12,22,chaotic evil
+reaper-of-bhaal,2.0,humanoid (human),Medium,15,27,chaotic evil
+silver-dragon-wyrmling,2.0,dragon,Medium,17,45,lawful good
+kobold,0.125,humanoid (kobold),Small,12,5,lawful evil
+green-hag,3.0,fey,Medium,17,82,neutral evil
+yeti,3.0,monstrosity,Large,12,51,chaotic evil
+tiger,1.0,beast,Large,12,37,unaligned
+giant-octopus,1.0,beast,Large,11,52,unaligned
+neogi,3.0,aberration,Small,15,33,lawful evil
+yuan-ti-mind-whisperer,4.0,monstrosity (shapechanger/yuan-ti),Medium,14,71,neutral evil
+noble,0.125,humanoid (any race),Medium,15,9,any alignment
+panther,0.25,beast,Medium,12,13,unaligned
+dragon-turtle,17.0,dragon,Gargantuan,20,341,neutral
+pit-fiend,20.0,fiend (devil),Large,19,300,lawful evil
+rutterkin,2.0,fiend (demon),Medium,12,37,chaotic evil
+troglodyte,0.25,humanoid (troglodyte),Medium,11,13,chaotic evil
+kuo-toa,0.25,humanoid (kuo-toa),Medium,13,18,neutral evil
+assassin,8.0,humanoid (any race),Medium,15,78,any non-good alignment
+froghemoth,10.0,monstrosity,Huge,14,184,unaligned
+cow,0.25,beast,Large,10,15,unaligned
+bodak,6.0,undead,Medium,15,58,chaotic evil
+yuan-ti-pureblood,1.0,humanoid (yuan-ti),Medium,11,40,neutral evil
+expert-lvl-4,0.0,humanoid (any race),Medium,14,27,any alignment
+orog,2.0,humanoid (orc),Medium,18,42,chaotic evil
+meazel,1.0,humanoid (meazel),Medium,13,35,neutral evil
+vampire-spawn,5.0,undead,Medium,15,82,neutral evil
+lizard-king-queen,4.0,humanoid (lizardfolk),Medium,15,78,chaotic evil
+cat,0.0,beast,Tiny,12,2,unaligned
+lion,1.0,beast,Large,12,26,unaligned
+retriever,14.0,construct,Large,19,210,lawful evil
+myconid-sprout,0.0,plant,Small,10,7,lawful neutral
+githyanki-supreme-commander,14.0,humanoid (gith),Medium,18,187,lawful evil
+yuan-ti-anathema,12.0,monstrosity (shapechanger/yuan-ti),Huge,16,189,neutral evil
+quaggoth-spore-servant,1.0,plant,Medium,13,45,unaligned
+jaculi,0.5,beast,Large,14,16,unaligned
+vrock,6.0,fiend (demon),Large,15,104,chaotic evil
+phase-spider,3.0,monstrosity,Large,13,32,unaligned
+vampire,13.0,undead (shapechanger),Medium,16,144,lawful evil
+twig-blight,0.125,plant,Small,13,4,neutral evil
+duergar,1.0,humanoid (dwarf),Medium,16,26,lawful evil
+adult-red-dragon,17.0,dragon,Huge,19,256,chaotic evil
+beholder,13.0,aberration,Large,18,180,lawful evil
+gas-spore,0.5,plant,Large,5,1,unaligned
+lizardfolk-shaman,2.0,humanoid (lizardfolk),Medium,13,27,neutral
+air-elemental,5.0,elemental,Large,15,90,neutral
+hook-horror,3.0,monstrosity,Large,15,75,neutral
+dhergoloth,7.0,fiend (yugoloth),Medium,15,119,neutral evil
+warrior-lvl-2,0.0,humanoid (any race),Medium,16,19,any alignment
+mind-flayer,7.0,aberration,Medium,15,71,lawful evil
+rot-troll,9.0,giant,Large,16,138,chaotic evil
+shambling-mound,5.0,plant,Large,15,136,unaligned
+giant-weasel,0.125,beast,Medium,13,9,unaligned
+albino-dwarf-warrior,0.25,humanoid (dwarf),Medium,13,30,any alignment
+giant-frog,0.25,beast,Medium,11,18,unaligned
+hobgoblin-warlord,6.0,humanoid (goblinoid),Medium,20,97,lawful evil
+spellcaster-mage-lvl-1,0.0,humanoid (any race),Medium,12,9,any alignment
+jarlaxle-baenre,15.0,humanoid (elf),Medium,24,123,chaotic neutral
+deep-scion,3.0,humanoid (shapechanger),Medium,11,67,neutral evil
+hyena,0.0,beast,Medium,11,5,unaligned
+blackguard,8.0,humanoid (any race),Medium,18,153,any non-good alignment
+kamadan,4.0,monstrosity,Large,13,67,unaligned
+constrictor-snake,0.25,beast,Large,12,13,unaligned
+remorhaz,11.0,monstrosity,Huge,17,195,unaligned
+rakshasa,13.0,fiend,Medium,16,110,lawful evil
+orc-blade-of-ilneval,4.0,humanoid (orc),Medium,18,60,chaotic evil
+swarm-of-poisonous-snakes,2.0,swarm of Tiny beasts,Medium,14,36,unaligned
+enchanter,5.0,humanoid (any race),Medium,12,40,any alignment
+cult-fanatic,2.0,humanoid (any race),Medium,13,33,any non-good alignment
+spirit-troll,11.0,giant,Large,17,97,chaotic evil
+young-white-dragon,6.0,dragon,Large,17,133,chaotic evil
+red-abishai,19.0,fiend (devil),Medium,22,255,lawful evil
+crokek-toeck,14.0,fiend (demon),Gargantuan,15,297,chaotic evil
+githyanki-gish,10.0,humanoid (gith),Medium,17,123,lawful evil
+nalfeshnee,13.0,fiend (demon),Large,18,184,chaotic evil
+adult-copper-dragon,14.0,dragon,Huge,18,184,chaotic good
+spellcaster-mage-lvl-2,0.0,humanoid (any race),Medium,12,13,any alignment
+fire-elemental-myrmidon,7.0,elemental,Medium,18,123,neutral
+ancient-red-dragon,24.0,dragon,Gargantuan,22,546,chaotic evil
+fist-of-bane,0.5,humanoid (human),Medium,18,22,lawful evil
+iron-cobra,4.0,construct,Medium,13,45,unaligned
+fire-snake,1.0,elemental,Medium,14,22,neutral evil
+dust-mephit,0.5,elemental,Small,12,17,neutral evil
+giant-boar,2.0,beast,Large,12,42,unaligned
+archer,3.0,humanoid (any race),Medium,16,75,any alignment
+orc-eye-of-gruumsh,2.0,humanoid (orc),Medium,16,45,chaotic evil
+druid,2.0,humanoid (any race),Medium,11,27,any alignment
+mummy,3.0,undead,Medium,11,58,lawful evil
+the-lonely,9.0,monstrosity,Medium,16,112,neutral evil
+duergar-despot,12.0,humanoid (dwarf),Medium,21,119,lawful evil
+adult-oblex,5.0,ooze,Medium,14,75,lawful evil
+spellcaster-healer-lvl-2,0.0,humanoid (any race),Medium,12,13,any alignment
+green-slaad,8.0,aberration (shapechanger),Large,16,127,chaotic neutral
+elder-brain,14.0,aberration,Large,10,210,lawful evil
+devilroot,7.0,plant,Medium,15,105,neutral evil
+giant-poisonous-snake,0.25,beast,Medium,14,11,unaligned
+giant-lizard,0.25,beast,Large,12,19,unaligned
+brown-bear,1.0,beast,Large,11,34,unaligned
+warrior-lvl-3,0.0,humanoid (any race),Medium,16,26,any alignment
+the-hungry,11.0,monstrosity,Medium,17,225,neutral evil
+mezzoloth,5.0,fiend (yugoloth),Medium,18,75,neutral evil
+boneclaw,12.0,undead,Large,16,127,chaotic evil
+death-dog,1.0,monstrosity,Medium,12,39,neutral evil
+elk,0.25,beast,Large,10,13,unaligned
+spellcaster-healer-lvl-6,0.0,humanoid (any race),Medium,12,31,any alignment
+sahuagin-priestess,2.0,humanoid (sahuagin),Medium,12,33,lawful evil
+nabassu,15.0,fiend (demon),Medium,18,190,chaotic evil
+demogorgon,26.0,fiend (demon),Huge,22,406,chaotic evil
+thri-kreen,1.0,humanoid (thri-kreen),Medium,15,33,chaotic neutral
+laeral-silverhand,17.0,humanoid (human),Medium,18,228,chaotic good
+gauth,6.0,aberration,Medium,15,67,lawful evil
+magma-mephit,0.5,elemental,Small,11,22,neutral evil
+deer,0.0,beast,Medium,13,4,unaligned
+hezrou,8.0,fiend (demon),Large,16,136,chaotic evil
+swarm-of-insects,0.5,swarm of Tiny beasts,Medium,12,22,unaligned
+skull-lord,15.0,undead,Medium,18,105,lawful evil
+ogre-howdah,2.0,giant,Large,13,59,chaotic evil
+hobgoblin-iron-shadow,2.0,humanoid (goblinoid),Medium,15,32,lawful evil
+spined-devil,2.0,fiend (devil),Small,13,22,lawful evil
+titivilus,16.0,fiend (devil),Medium,20,127,lawful evil
+tyrannosaurus-rex,8.0,beast,Huge,13,136,unaligned
+glabrezu,9.0,fiend (demon),Large,17,157,chaotic evil
+tridrone,0.5,construct,Medium,15,16,lawful neutral
+blood-hawk,0.125,beast,Small,12,7,unaligned
+vegepygmy-chief,2.0,plant,Small,14,33,neutral
+warlord,12.0,humanoid (any race),Medium,18,229,any alignment
+deep-gnome-svirfneblin,0.5,humanoid (gnome),Small,15,16,neutral good
+gargoyle,2.0,elemental,Medium,15,52,chaotic evil
+giant-badger,0.25,beast,Medium,10,13,unaligned
+hellwasp,5.0,fiend,Large,19,52,lawful evil
+young-blue-dragon,9.0,dragon,Large,18,152,lawful evil
+giant-spider,1.0,beast,Large,14,26,unaligned
+sword-wraith-warrior,3.0,undead,Medium,16,45,lawful evil
+kruthik-hive-lord,5.0,monstrosity,Large,20,102,unaligned
+satyr,0.5,fey,Medium,14,31,chaotic neutral
+gray-ooze,0.5,ooze,Medium,8,22,unaligned
+kuo-toa-archpriest,6.0,humanoid (kuo-toa),Medium,13,97,neutral evil
+pentadrone,2.0,construct,Large,16,32,lawful neutral
+minotaur-skeleton,2.0,undead,Large,12,67,lawful evil
+sahuagin-baron,5.0,humanoid (sahuagin),Large,16,76,lawful evil
+kenku,0.25,humanoid (kenku),Medium,13,13,chaotic neutral
+adult-white-dragon,13.0,dragon,Huge,18,200,chaotic evil
+polar-bear,2.0,beast,Large,12,42,unaligned
+zariel,26.0,fiend (devil),Large,21,580,lawful evil
+displacer-beast,3.0,monstrosity,Large,13,85,lawful evil
+expert-lvl-6,0.0,humanoid (any race),Medium,14,38,any alignment
+giant-ape,7.0,beast,Huge,12,157,unaligned
+centaur,2.0,monstrosity,Large,12,45,neutral good
+ice-devil,14.0,fiend (devil),Large,18,180,lawful evil
+deathlock-wight,3.0,undead,Medium,12,37,neutral evil
+young-red-shadow-dragon,13.0,dragon,Large,18,178,chaotic evil
+wereboar,4.0,humanoid (human/shapechanger),Medium,10,78,neutral evil
+bulette,5.0,monstrosity,Large,17,94,unaligned
+umber-hulk,5.0,monstrosity,Large,18,93,chaotic evil
+swarm-of-cranium-rats,5.0,swarm of Tiny beasts,Medium,12,36,lawful evil
+sprite,0.25,fey,Tiny,15,2,neutral good
+ghast,2.0,undead,Medium,13,36,chaotic evil
+unicorn,5.0,celestial,Large,12,67,lawful good
+stone-giant-dreamwalker,10.0,giant (stone giant),Huge,18,161,chaotic neutral
+annis-hag,6.0,fey,Large,17,75,chaotic evil
+dragonbait,5.0,humanoid (saurial),Medium,17,120,lawful good
+owl,0.0,beast,Tiny,11,1,unaligned
+eidolon,12.0,undead,Medium,9,63,any alignment
+baphomet,23.0,fiend (demon),Huge,22,275,chaotic evil
+fomorian,8.0,giant,Huge,14,149,chaotic evil
+bandit,0.125,humanoid (any race),Medium,12,11,any non-lawful alignment
+needle-blight,0.25,plant,Medium,12,11,neutral evil
+shoosuva,8.0,fiend (demon),Large,14,110,chaotic evil
+gazer,0.5,aberration,Tiny,13,13,neutral evil
+gynosphinx,11.0,monstrosity,Large,17,136,lawful neutral
+scorpion,0.0,beast,Tiny,11,1,unaligned
+drow-shadowblade,11.0,humanoid (elf),Medium,17,150,neutral evil
+roc,11.0,monstrosity,Gargantuan,15,248,unaligned
+night-hag,5.0,fiend,Medium,17,112,neutral evil
+young-copper-dragon,7.0,dragon,Large,17,119,chaotic good
+yeth-hound,4.0,fey,Large,14,51,neutral evil
+efreeti,11.0,elemental,Large,17,200,lawful evil
+sea-spawn,1.0,humanoid,Medium,11,32,neutral evil
+balor,19.0,fiend (demon),Huge,19,262,chaotic evil
+evoker,9.0,humanoid (any race),Medium,12,66,any alignment
+hydroloth,9.0,fiend (yugoloth),Medium,15,135,neutral evil
+mantrap,1.0,plant,Large,12,45,unaligned
+ancient-brass-dragon,20.0,dragon,Gargantuan,20,297,chaotic good
+stone-golem,10.0,construct,Large,17,178,unaligned
+goblin-boss,1.0,humanoid (goblinoid),Small,17,21,neutral evil
+homunculus,0.0,construct,Tiny,13,5,neutral
+lich,21.0,undead,Medium,17,135,any evil alignment
+giff,3.0,humanoid,Medium,16,60,lawful neutral
+sea-horse,0.0,beast,Tiny,11,1,unaligned
+giant-crab,0.125,beast,Medium,15,13,unaligned
+narzugon,13.0,fiend (devil),Medium,20,112,lawful evil
+tanarukk,5.0,fiend (demon/orc),Medium,14,95,chaotic evil
+nupperibo,0.5,fiend (devil),Medium,13,11,lawful evil
+fire-giant-dreadnought,14.0,giant (fire giant),Huge,21,187,lawful evil
+astral-dreadnought,21.0,monstrosity (titan),Gargantuan,20,297,unaligned
+darkmantle,0.5,monstrosity,Small,11,22,unaligned
+merregon,4.0,fiend (devil),Medium,16,45,lawful evil
+yellow-musk-creeper,2.0,plant,Medium,6,60,unaligned
+expert-lvl-2,0.0,humanoid (any race),Medium,14,16,any alignment
+spy,1.0,humanoid (any race),Medium,12,27,any alignment
+blue-abishai,17.0,fiend (devil),Medium,19,195,lawful evil
+apprentice-wizard,0.25,humanoid (any race),Medium,10,9,any alignment
+piercer,0.5,monstrosity,Medium,15,22,unaligned
+tiamat,30.0,fiend,Gargantuan,25,615,chaotic evil
+ogre-bolt-launcher,2.0,giant,Large,13,59,chaotic evil
